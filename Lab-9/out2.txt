@@ -1,0 +1,130 @@
+Generation... 0
+String: 001     Fitness: 3
+String: 100     Fitness: 3
+String: 101     Fitness: 6
+String: 001     Fitness: 3
+String: 100     Fitness: 3
+String: 100     Fitness: 3
+String: 100     Fitness: 3
+String: 011     Fitness: 6
+String: 011     Fitness: 6
+String: 100     Fitness: 3
+Best KnapSack is: [1 , 0 , 1] Fitness is 6
+******************************************************************************************************************************************
+Generation... 1
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 100     Fitness: 3
+String: 011     Fitness: 6
+String: 100     Fitness: 3
+String: 101     Fitness: 6
+String: 011     Fitness: 6
+String: 011     Fitness: 6
+String: 011     Fitness: 6
+String: 011     Fitness: 6
+Best KnapSack is: [1 , 0 , 1] Fitness is 6
+******************************************************************************************************************************************
+Generation... 2
+String: 101     Fitness: 6
+String: 011     Fitness: 6
+String: 011     Fitness: 6
+String: 011     Fitness: 6
+String: 011     Fitness: 6
+String: 011     Fitness: 6
+String: 011     Fitness: 6
+String: 011     Fitness: 6
+String: 101     Fitness: 6
+String: 011     Fitness: 6
+Best KnapSack is: [1 , 0 , 1] Fitness is 6
+******************************************************************************************************************************************
+Generation... 3
+String: 101     Fitness: 6
+String: 011     Fitness: 6
+String: 011     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 011     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 011     Fitness: 6
+String: 101     Fitness: 6
+Best KnapSack is: [1 , 0 , 1] Fitness is 6
+******************************************************************************************************************************************
+Generation... 4
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 011     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+Best KnapSack is: [1 , 0 , 1] Fitness is 6
+******************************************************************************************************************************************
+Generation... 5
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+Best KnapSack is: [1 , 0 , 1] Fitness is 6
+******************************************************************************************************************************************
+Generation... 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+Best KnapSack is: [1 , 0 , 1] Fitness is 6
+******************************************************************************************************************************************
+Generation... 7
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+Best KnapSack is: [1 , 0 , 1] Fitness is 6
+******************************************************************************************************************************************
+Generation... 8
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+Best KnapSack is: [1 , 0 , 1] Fitness is 6
+******************************************************************************************************************************************
+Generation... 9
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+String: 101     Fitness: 6
+Best KnapSack is: [1 , 0 , 1] Fitness is 6
+******************************************************************************************************************************************

@@ -1,0 +1,305 @@
+W is 4
+X is -2
+Y is 3.5
+Z is -4.2
+Objective Function is aW+bX+cY+dZ
+Current Generation ..1
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:-4.52941 d:-13 Fitness:107.806
+
+
+***
+
+Current Generation ..2
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:-4.52941 d:-13 Fitness:107.806
+
+
+***
+
+Current Generation ..3
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:-4.52941 d:-13 Fitness:107.806
+
+
+***
+
+Current Generation ..4
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:-4.52941 d:-13 Fitness:107.806
+
+
+***
+
+Current Generation ..5
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:-4.52941 d:-13 Fitness:107.806
+
+
+***
+
+Current Generation ..6
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:-4.52941 d:-13.1176 Fitness:108.3
+
+
+***
+
+Current Generation ..7
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:-4.52941 d:-13.1176 Fitness:108.3
+
+
+***
+
+Current Generation ..8
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:10.5294 d:-13 Fitness:160.512
+
+
+***
+
+Current Generation ..9
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:10.5294 d:-13 Fitness:160.512
+
+
+***
+
+Current Generation ..10
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:10.5294 d:-13 Fitness:160.512
+
+
+***
+
+Current Generation ..11
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:10.5294 d:-14.8824 Fitness:168.418
+
+
+***
+
+Current Generation ..12
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:10.5294 d:-14.8824 Fitness:168.418
+
+
+***
+
+Current Generation ..13
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:10.5294 d:-14.8824 Fitness:168.418
+
+
+***
+
+Current Generation ..14
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:10.5294 d:-14.8824 Fitness:168.418
+
+
+***
+
+Current Generation ..15
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:11 d:-14.8824 Fitness:170.065
+
+
+***
+
+Current Generation ..16
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:14.2941 d:-14.8824 Fitness:181.594
+
+
+***
+
+Current Generation ..17
+Best Individual of Current Gen is a:12.2941 b:-9.94118 c:14.2941 d:-14.8824 Fitness:181.594
+
+
+***
+
+Current Generation ..18
+Best Individual of Current Gen is a:12.2941 b:-10.8824 c:14.2941 d:-14.8824 Fitness:183.476
+
+
+***
+
+Current Generation ..19
+Best Individual of Current Gen is a:12.2941 b:-10.8824 c:14.2941 d:-14.8824 Fitness:183.476
+
+
+***
+
+Current Generation ..20
+Best Individual of Current Gen is a:12.2941 b:-10.8824 c:14.2941 d:-14.8824 Fitness:183.476
+
+
+***
+
+Current Generation ..21
+Best Individual of Current Gen is a:12.2941 b:-10.8824 c:14.2941 d:-14.8824 Fitness:183.476
+
+
+***
+
+Current Generation ..22
+Best Individual of Current Gen is a:12.2941 b:-10.8824 c:14.2941 d:-14.8824 Fitness:183.476
+
+
+***
+
+Current Generation ..23
+Best Individual of Current Gen is a:12.2941 b:-10.8824 c:14.2941 d:-14.8824 Fitness:183.476
+
+
+***
+
+Current Generation ..24
+Best Individual of Current Gen is a:12.2941 b:-10.8824 c:14.2941 d:-14.8824 Fitness:183.476
+
+
+***
+
+Current Generation ..25
+Best Individual of Current Gen is a:12.2941 b:-10.8824 c:14.2941 d:-14.8824 Fitness:183.476
+
+
+***
+
+Current Generation ..26
+Best Individual of Current Gen is a:12.2941 b:-10.8824 c:14.7647 d:-14.8824 Fitness:185.124
+
+
+***
+
+Current Generation ..27
+Best Individual of Current Gen is a:12.2941 b:-10.8824 c:14.7647 d:-14.8824 Fitness:185.124
+
+
+***
+
+Current Generation ..28
+Best Individual of Current Gen is a:12.2941 b:-14.6471 c:14.2941 d:-14.8824 Fitness:191.006
+
+
+***
+
+Current Generation ..29
+Best Individual of Current Gen is a:12.2941 b:-14.6471 c:14.7647 d:-14.8824 Fitness:192.653
+
+
+***
+
+Current Generation ..30
+Best Individual of Current Gen is a:12.2941 b:-14.6471 c:14.7647 d:-14.8824 Fitness:192.653
+
+
+***
+
+Current Generation ..31
+Best Individual of Current Gen is a:12.2941 b:-14.6471 c:14.7647 d:-14.8824 Fitness:192.653
+
+
+***
+
+Current Generation ..32
+Best Individual of Current Gen is a:12.2941 b:-14.6471 c:14.7647 d:-14.8824 Fitness:192.653
+
+
+***
+
+Current Generation ..33
+Best Individual of Current Gen is a:12.2941 b:-14.6471 c:14.7647 d:-14.8824 Fitness:192.653
+
+
+***
+
+Current Generation ..34
+Best Individual of Current Gen is a:12.2941 b:-14.6471 c:14.7647 d:-14.8824 Fitness:192.653
+
+
+***
+
+Current Generation ..35
+Best Individual of Current Gen is a:12.2941 b:-14.6471 c:15 d:-14.8824 Fitness:193.476
+
+
+***
+
+Current Generation ..36
+Best Individual of Current Gen is a:12.2941 b:-14.6471 c:15 d:-14.8824 Fitness:193.476
+
+
+***
+
+Current Generation ..37
+Best Individual of Current Gen is a:12.2941 b:-14.6471 c:15 d:-14.8824 Fitness:193.476
+
+
+***
+
+Current Generation ..38
+Best Individual of Current Gen is a:12.2941 b:-14.6471 c:15 d:-14.8824 Fitness:193.476
+
+
+***
+
+Current Generation ..39
+Best Individual of Current Gen is a:14.1765 b:-14.6471 c:15 d:-14.8824 Fitness:201.006
+
+
+***
+
+Current Generation ..40
+Best Individual of Current Gen is a:14.1765 b:-14.6471 c:15 d:-14.8824 Fitness:201.006
+
+
+***
+
+Current Generation ..41
+Best Individual of Current Gen is a:14.1765 b:-14.6471 c:15 d:-14.8824 Fitness:201.006
+
+
+***
+
+Current Generation ..42
+Best Individual of Current Gen is a:14.1765 b:-14.6471 c:15 d:-14.8824 Fitness:201.006
+
+
+***
+
+Current Generation ..43
+Best Individual of Current Gen is a:14.1765 b:-14.6471 c:15 d:-14.8824 Fitness:201.006
+
+
+***
+
+Current Generation ..44
+Best Individual of Current Gen is a:14.1765 b:-14.6471 c:15 d:-14.8824 Fitness:201.006
+
+
+***
+
+Current Generation ..45
+Best Individual of Current Gen is a:14.1765 b:-14.6471 c:15 d:-14.8824 Fitness:201.006
+
+
+***
+
+Current Generation ..46
+Best Individual of Current Gen is a:14.1765 b:-14.6471 c:15 d:-14.8824 Fitness:201.006
+
+
+***
+
+Current Generation ..47
+Best Individual of Current Gen is a:14.1765 b:-14.6471 c:15 d:-14.8824 Fitness:201.006
+
+
+***
+
+Current Generation ..48
+Best Individual of Current Gen is a:14.6471 b:-14.6471 c:15 d:-14.8824 Fitness:202.888
+
+
+***
+
+Current Generation ..49
+Best Individual of Current Gen is a:14.6471 b:-14.6471 c:15 d:-14.8824 Fitness:202.888
+
+
+***
+
+Current Generation ..50
+Best Individual of Current Gen is a:14.6471 b:-14.6471 c:15 d:-14.8824 Fitness:202.888
+
+
+***
+

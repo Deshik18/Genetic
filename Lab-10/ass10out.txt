@@ -1,0 +1,605 @@
+W is 4
+X is -2
+Y is 3.5
+Z is -4.2
+Objective Function is aW+bX+cY+dZ
+Current Generation ..1
+Best Individual of Current Gen is a:4.52941 b:-14.0588 c:13.8235 d:-2.88235 Fitness:106.724
+
+
+***
+
+Current Generation ..2
+Best Individual of Current Gen is a:4.52941 b:-14.0588 c:13.8235 d:-2.88235 Fitness:106.724
+
+
+***
+
+Current Generation ..3
+Best Individual of Current Gen is a:4.52941 b:-14.0588 c:13.8235 d:-2.88235 Fitness:106.724
+
+
+***
+
+Current Generation ..4
+Best Individual of Current Gen is a:4.52941 b:-14.0588 c:13.8235 d:-2.88235 Fitness:106.724
+
+
+***
+
+Current Generation ..5
+Best Individual of Current Gen is a:4.52941 b:-14.0588 c:13.8235 d:-3 Fitness:107.218
+
+
+***
+
+Current Generation ..6
+Best Individual of Current Gen is a:4.52941 b:-14.0588 c:13.8235 d:-3 Fitness:107.218
+
+
+***
+
+Current Generation ..7
+Best Individual of Current Gen is a:4.52941 b:-14.0588 c:13.8235 d:-3 Fitness:107.218
+
+
+***
+
+Current Generation ..8
+Best Individual of Current Gen is a:4.52941 b:-14.0588 c:13.8235 d:-3.23529 Fitness:108.206
+
+
+***
+
+Current Generation ..9
+Best Individual of Current Gen is a:6.41176 b:-14.0588 c:13.8235 d:-3 Fitness:114.747
+
+
+***
+
+Current Generation ..10
+Best Individual of Current Gen is a:6.41176 b:-14.0588 c:13.8235 d:-3 Fitness:114.747
+
+
+***
+
+Current Generation ..11
+Best Individual of Current Gen is a:4.52941 b:-14.0588 c:13.8235 d:-10.7647 Fitness:139.829
+
+
+***
+
+Current Generation ..12
+Best Individual of Current Gen is a:4.52941 b:-14.0588 c:13.8235 d:-10.7647 Fitness:139.829
+
+
+***
+
+Current Generation ..13
+Best Individual of Current Gen is a:4.52941 b:-14.0588 c:13.8235 d:-10.7647 Fitness:139.829
+
+
+***
+
+Current Generation ..14
+Best Individual of Current Gen is a:13.9412 b:-14.0588 c:13.8235 d:-3 Fitness:144.865
+
+
+***
+
+Current Generation ..15
+Best Individual of Current Gen is a:13.9412 b:-14.0588 c:13.8235 d:-3 Fitness:144.865
+
+
+***
+
+Current Generation ..16
+Best Individual of Current Gen is a:13.9412 b:-14.0588 c:13.8235 d:-3 Fitness:144.865
+
+
+***
+
+Current Generation ..17
+Best Individual of Current Gen is a:13.9412 b:-14.0588 c:13.8235 d:-3 Fitness:144.865
+
+
+***
+
+Current Generation ..18
+Best Individual of Current Gen is a:13.9412 b:-14.0588 c:13.8235 d:-3 Fitness:144.865
+
+
+***
+
+Current Generation ..19
+Best Individual of Current Gen is a:13.9412 b:-14.0588 c:13.8235 d:-3 Fitness:144.865
+
+
+***
+
+Current Generation ..20
+Best Individual of Current Gen is a:14.8824 b:-14.0588 c:13.8235 d:-3 Fitness:148.629
+
+
+***
+
+Current Generation ..21
+Best Individual of Current Gen is a:13.9412 b:-14.0588 c:13.8235 d:-6.76471 Fitness:160.676
+
+
+***
+
+Current Generation ..22
+Best Individual of Current Gen is a:13.9412 b:-14.0588 c:13.8235 d:-6.76471 Fitness:160.676
+
+
+***
+
+Current Generation ..23
+Best Individual of Current Gen is a:14.8824 b:-14.0588 c:13.8235 d:-6.76471 Fitness:164.441
+
+
+***
+
+Current Generation ..24
+Best Individual of Current Gen is a:14.8824 b:-14.0588 c:13.8235 d:-6.76471 Fitness:164.441
+
+
+***
+
+Current Generation ..25
+Best Individual of Current Gen is a:15 b:-14.0588 c:13.8235 d:-6.76471 Fitness:164.912
+
+
+***
+
+Current Generation ..26
+Best Individual of Current Gen is a:15 b:-14.0588 c:13.8235 d:-6.76471 Fitness:164.912
+
+
+***
+
+Current Generation ..27
+Best Individual of Current Gen is a:15 b:-14.0588 c:13.8235 d:-6.76471 Fitness:164.912
+
+
+***
+
+Current Generation ..28
+Best Individual of Current Gen is a:15 b:-14.0588 c:13.8235 d:-6.76471 Fitness:164.912
+
+
+***
+
+Current Generation ..29
+Best Individual of Current Gen is a:15 b:-15 c:13.8235 d:-6.76471 Fitness:166.794
+
+
+***
+
+Current Generation ..30
+Best Individual of Current Gen is a:15 b:-15 c:13.8235 d:-6.76471 Fitness:166.794
+
+
+***
+
+Current Generation ..31
+Best Individual of Current Gen is a:15 b:-15 c:13.8235 d:-6.76471 Fitness:166.794
+
+
+***
+
+Current Generation ..32
+Best Individual of Current Gen is a:15 b:-15 c:13.8235 d:-6.76471 Fitness:166.794
+
+
+***
+
+Current Generation ..33
+Best Individual of Current Gen is a:15 b:-15 c:13.8235 d:-6.76471 Fitness:166.794
+
+
+***
+
+Current Generation ..34
+Best Individual of Current Gen is a:15 b:-15 c:13.8235 d:-6.76471 Fitness:166.794
+
+
+***
+
+Current Generation ..35
+Best Individual of Current Gen is a:15 b:-15 c:14.0588 d:-6.76471 Fitness:167.618
+
+
+***
+
+Current Generation ..36
+Best Individual of Current Gen is a:15 b:-15 c:14.0588 d:-6.76471 Fitness:167.618
+
+
+***
+
+Current Generation ..37
+Best Individual of Current Gen is a:15 b:-15 c:14.0588 d:-6.76471 Fitness:167.618
+
+
+***
+
+Current Generation ..38
+Best Individual of Current Gen is a:15 b:-15 c:14.0588 d:-7.23529 Fitness:169.594
+
+
+***
+
+Current Generation ..39
+Best Individual of Current Gen is a:15 b:-15 c:14.0588 d:-7.23529 Fitness:169.594
+
+
+***
+
+Current Generation ..40
+Best Individual of Current Gen is a:15 b:-15 c:14.0588 d:-7.23529 Fitness:169.594
+
+
+***
+
+Current Generation ..41
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-7.23529 Fitness:172.888
+
+
+***
+
+Current Generation ..42
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-7.23529 Fitness:172.888
+
+
+***
+
+Current Generation ..43
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-7.23529 Fitness:172.888
+
+
+***
+
+Current Generation ..44
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-7.23529 Fitness:172.888
+
+
+***
+
+Current Generation ..45
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-7.47059 Fitness:173.876
+
+
+***
+
+Current Generation ..46
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-7.47059 Fitness:173.876
+
+
+***
+
+Current Generation ..47
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-7.47059 Fitness:173.876
+
+
+***
+
+Current Generation ..48
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-7.47059 Fitness:173.876
+
+
+***
+
+Current Generation ..49
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-7.47059 Fitness:173.876
+
+
+***
+
+Current Generation ..50
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-7.47059 Fitness:173.876
+
+
+***
+
+Current Generation ..51
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-7.47059 Fitness:173.876
+
+
+***
+
+Current Generation ..52
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-7.47059 Fitness:173.876
+
+
+***
+
+Current Generation ..53
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-7.47059 Fitness:173.876
+
+
+***
+
+Current Generation ..54
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-7.47059 Fitness:173.876
+
+
+***
+
+Current Generation ..55
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-7.47059 Fitness:173.876
+
+
+***
+
+Current Generation ..56
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..57
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..58
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..59
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..60
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..61
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..62
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..63
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..64
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..65
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..66
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..67
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..68
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..69
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..70
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..71
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..72
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..73
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..74
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..75
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..76
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..77
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..78
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..79
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..80
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..81
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..82
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..83
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..84
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..85
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..86
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..87
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..88
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..89
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..90
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..91
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..92
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..93
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..94
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..95
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..96
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..97
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..98
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..99
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
+Current Generation ..100
+Best Individual of Current Gen is a:15 b:-15 c:15 d:-15 Fitness:205.5
+
+
+***
+
