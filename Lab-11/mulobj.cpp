@@ -67,7 +67,7 @@ int fitness(string ind){
     for(int i=0;i<no_invest;i++){
         if(ind[i]=='1'){
             x++;
-            sc+=(exp_ret[i]-volat[i]);   //weighted objective.....
+            sc+=(exp_ret[i]/volat[i]);   //weighted objective.....
         }
     }
     if(x!=max_invest){
@@ -149,8 +149,19 @@ int main(){
     cin >> max_invest;
 
     ofstream f;
-    f.open("ass11out.txt");
-    f << "Objective function used is P-R" << endl << endl;
+    f.open("ass1(p-r).txt");
+    f<<"No of investments n:" << no_invest << endl;
+    f << "Expected Returns : " ;
+    for(int i=0;i<no_invest;i++){
+        f << exp_ret[i] << " ";
+    }
+    f << endl;
+    f << "Volatility : ";
+    for(int i=0;i<no_invest;i++){
+        f << volat[i] << " ";
+    }
+    f << endl;
+    f << "Objective function used is P/R" << endl << endl;
     vector<string> population=init_pop();
 
     while(gen<=50){
